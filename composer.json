@@ -1,0 +1,20 @@
+{
+    "name": "abnermouke/sso-builder",
+    "description": "SSOBuilder是一款高效的单点登录构建工具包，支持多种登录方式，包括（微信、支付宝、抖音、Github、QQ等），集成化登录，可自定义登录页面，方便且好用！",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abnermouke\\SsoBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abnermouke",
+            "email": "abnermouke@outlook.com"
+        }
+    ],
+    "require": {
+        "abnermouke/easy-builder": "*"
+    }
+}
