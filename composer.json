@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Abnermouke\\SsoBuilder\\": "src/"
+            "Abnermouke\\SsoBuilder\\": "src"
         }
     },
     "authors": [
